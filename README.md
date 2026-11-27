@@ -12,7 +12,7 @@ Currently, I’m focused on:
 - Writing **clean, scalable, and maintainable code**
 - Understanding **real-world system design and application architecture**
 
-🌐 **Portfolio:** 👉 **https://visheshmalik6.github.io/MyPortfolio**
+🌐 **Portfolio:** 👉 **[https://visheshmalik6.github.io/MyPortfolio](https://my-portfolio-pkzw.vercel.app/)**
 
 ---
 
